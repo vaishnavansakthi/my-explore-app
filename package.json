@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
     "cra-template-typescript": "1.2.0",
+    "i18next": "^24.2.0",
+    "i18next-browser-languagedetector": "^8.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-i18next": "^15.2.0",
+    "react-query": "^3.39.3",
+    "react-redux": "^9.2.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
